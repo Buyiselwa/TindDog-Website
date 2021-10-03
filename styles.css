@@ -45,11 +45,11 @@ h3 {
 
 .colored-section {
   background-color: #ef8172;
-  color: #F5F5F5;
+  color: white;
 }
 
 .white-section {
-  background-color: #F5F5F5;
+  background-color: white;
 }
 
 .feature-icon:hover {
